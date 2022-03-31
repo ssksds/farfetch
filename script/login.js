@@ -13,7 +13,7 @@ function loginpage() {
   for (var i = 0; i < arr.length; i++) {
     if (arr[i].itemname == mail && arr[i].itempassword == pass) {
       alert("Login Successfull");
-      window.location.href = "/myproject/index.html";
+      window.location.href = "index.html";
       break;
     }
     if (arr[i].itemname != mail && arr[i].itempassword != pass) {
