@@ -1,0 +1,72 @@
+body{
+    font-family: "gotham-book", sans-serif;
+}
+#container{
+    
+    height: 920px;
+    width: 25%;
+    margin: auto;
+    padding: 50px;
+    margin-top: 50px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+.logintextbox,.password{
+    height: 30px;
+    width: 98%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.btnnext,.singup{
+    margin-top: 20px;
+    height: 50px;
+    width: 98%;
+    border: none;
+    border-radius: 3px;
+    background-color: black;
+    margin-bottom: 30px;
+    color: white;
+    font-size: 20px;
+    
+}
+span{
+    color: rgb(167, 160, 148);
+}
+.letter{
+    height: 5px;
+    width: 1px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    padding: 1px;
+}
+.cent{
+text-align: center;
+}
+p{
+font-size: 20px;
+line-height: 30px;
+color:rgb(59,59,59) ;
+
+}
+#googleicon{
+height: 50px;
+}
+.dis{
+     text-align: center;
+     color:black;
+}
+
+.google{
+    border: 1px solid black;
+    margin-top: 20px;
+    height: 50px;
+    width: 98%;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    color: black;
+    font-size: 20px;
+    background-color: white
+}

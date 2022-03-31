@@ -1,0 +1,85 @@
+h2{
+            text-decoration: underline;
+            text-align: center;
+            }
+            .container{
+                height: 700px;
+                width: 45%;
+              
+                
+                padding: 20px;
+                
+            }
+            .name,.number,.address{
+                height: 40px;
+                width: 90%;
+                margin-left: 5%;
+                border-radius: 5px;
+                border: 1px solid black;
+            }
+            .fname,.Lname
+            {
+                margin-top: 20px;
+                margin-left: 5%;
+                height: 40px;
+                width: 41.5%;
+                border-radius: 5px;
+                border: 1px solid black;
+            }
+            .number,.address{
+                margin-top: 20px;
+               
+            }
+            .sing
+            {
+                height: 30px;
+                width: 70px;
+                margin-top: 20px;
+                margin-left: 5%;
+                border-radius: 5px;
+                border: 1px solid #eaeaea;
+            }
+            .sing:hover{
+                background-color: rgb(181, 177, 177);
+            }
+            .check{
+                margin-top: 20px;
+                margin-left: 5%;
+                border-radius: 5px;
+            }
+            .btnaddress,.btncancel{
+                margin-top: 20px;
+                margin-left: 5%;
+                height: 40px;
+                width: 43%;
+                border-radius: 5px;
+                border: 1px solid #eaeaea;
+            }
+            .btnaddress
+            {
+                background-color: Black;
+                color: white;
+            }
+            
+            .btncancel{
+                border: 1px solid black;
+                background-color: white;
+                color: BLACK;
+            }
+            
+            #home{
+                border: 1px solid #2ea88e;
+                background-color: white;
+                color: #2ea88e; 
+            }
+            #addIns{
+                padding-left: 10px;
+            }
+            #head{
+                color: black;
+                margin-left: 30px ;
+            }
+            
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
