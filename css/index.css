@@ -537,6 +537,11 @@ padding-left: 200px;
   padding-top:100px;
   margin:auto;
 }
+#footer {
+  display:grid;
+  grid-template-columns: repeat(2,2fr);
+  
+}
 
 }
       /* small screens */
@@ -558,5 +563,10 @@ padding-left: 200px;
         #f3{
           display:grid;
         grid-template-columns: repeat(1,1fr);
+      }
+      #footer {
+        display:grid;
+        grid-template-columns: repeat(1,3fr);
+        
       }
       }
